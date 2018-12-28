@@ -1,2 +1,2 @@
-# Computational-Geometry
+# Computational Geometry
 Computational geometry algorithms
