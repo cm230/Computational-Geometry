@@ -7,6 +7,8 @@ __Computer vision__ is primarily concerned with still or moving image processing
 
 Unsurprisingly, given these overlapping areas of interest, computational geometry has useful concepts to offer to the field of computer vision, and its counterpart, computer graphics. The Voronoi diagram (a.k.a. Dirichlet tessellation, Voronoi tessellation or Voronoi partition) of a set of points (see, for example, the illustrations above), and its dual, the points’ Delaunay triangulation (a.k.a. Delone triangulation; see the example below), are examples for such useful concepts. Relevant computer vision applications include face recognition, face morphing, image synthesis and surface modeling. We demonstrate the use of the Delaunay triangulation/Voronoi diagram of faces in images as a precursor for applications such as face recognition or face morphing.
 
+This repo provides the Python code in form of a Jupyter Notebook accompanying our [Medium](https://medium.com/datadriveninvestor/computational-geometry-for-computer-vision-f140fab91c76) article on this subject.
+
 <p align="center">
   <img src="https://github.com/cm230/Computational-Geometry/blob/master/Delaunay2.png"/>
 </p>
